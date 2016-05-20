@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/martin/Instagram_Api/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="42f4ef971ebdb25584c18fb6bf687d387931c140">
+        <dex dex="/home/martin/Instagram_Api/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_0c64256ea12c3818d0af331416dc75e3b5899438.jar" />
+    </item>
+    <item
+        jar="/home/martin/Instagram_Api/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="fc23358cd8e76c90ef4fc5f58e6280f2c0173791">
+        <dex dex="/home/martin/Instagram_Api/app/build/intermediates/pre-dexed/debug/instant-run_9d78b84fb213060a87cd3eb45bca3b29bc47347d.jar" />
+    </item>
+
+</items>
